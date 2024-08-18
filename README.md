@@ -16,10 +16,7 @@ Create multiple visualizations and filtering options for in-depth analysis by fi
 ## **4.Vɪꜱᴜᴀʟɪᴢᴀᴛɪᴏɴ & Iɴꜱɪɢʜᴛꜱ:**  
 Create a presentation or a report for data storytelling to share the important insights extracted and give recommendations to reduce the employee attrition rate.  
 
-## **Presentation Link :-**  
-https://www.canva.com/design/DAGBWzA_DxI/zWAuabhT2AnhVWRrbVBJcg/view?utm_content=DAGBWzA_DxI&utm_campaign=designshare&utm_medium=link&utm_source=editor    
-## **Dashboard Link :-**  
-https://www.novypro.com/project/amazon-sales-data-analysis-power-bi-1    
+
 
 ## Page 1 shows Sales Analysis
 ## Page 2 shows Product Analysis
